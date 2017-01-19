@@ -1,6 +1,6 @@
 var map;
 function initMap() {
-  var shinto = "icon-shinto.png";
+  var shinto = "image/icon-shinto.png";
 
   map = new google.maps.Map(document.getElementById('map'), {
     zoom: 6,
